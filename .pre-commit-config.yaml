@@ -1,0 +1,6 @@
+repos:
+  - repo: https://github.com/neutrinoceros/inifix.git
+    rev: v0.10.0
+    hooks:
+      - id: inifix-format
+        args: [--name-column-size, "30"]
