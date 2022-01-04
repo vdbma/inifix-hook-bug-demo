@@ -33,3 +33,5 @@ analysis                      0.01                                              
 sampleNumber                  10
 ```
 Note that the output is properly formated but the actual `idefix.ini` file is not.
+
+The `idefix.ini` file of this repo was commited with the `--no-verify` option, as the pre-commit hook failed.
