@@ -32,4 +32,4 @@ log                           100.0
 analysis                      0.01                                              # format de sortie personnel
 sampleNumber                  10
 ```
-Note that  the output is properly formated but the actual `idefix.ini` file is not.
+Note that the output is properly formated but the actual `idefix.ini` file is not.
